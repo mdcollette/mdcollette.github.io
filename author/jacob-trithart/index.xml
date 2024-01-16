@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacob Trithart | Marine Structures Design Lab</title>
+    <link>https://mdcollette.github.io/author/jacob-trithart/</link>
+      <atom:link href="https://mdcollette.github.io/author/jacob-trithart/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jacob Trithart</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mdcollette.github.io/author/jacob-trithart/avatar_huf1345ee989f7960a1c2b0c17ab92fa64_25117_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jacob Trithart</title>
+      <link>https://mdcollette.github.io/author/jacob-trithart/</link>
+    </image>
+    
+  </channel>
+</rss>

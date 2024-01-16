@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joseph Van Houten | Marine Structures Design Lab</title>
+    <link>https://mdcollette.github.io/author/joseph-van-houten/</link>
+      <atom:link href="https://mdcollette.github.io/author/joseph-van-houten/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joseph Van Houten</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mdcollette.github.io/author/joseph-van-houten/avatar_hu1833c8d3c8a25956146eeb502e954240_1458341_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Joseph Van Houten</title>
+      <link>https://mdcollette.github.io/author/joseph-van-houten/</link>
+    </image>
+    
+  </channel>
+</rss>

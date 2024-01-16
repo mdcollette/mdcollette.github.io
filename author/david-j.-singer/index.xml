@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David J. Singer | Marine Structures Design Lab</title>
+    <link>https://mdcollette.github.io/author/david-j.-singer/</link>
+      <atom:link href="https://mdcollette.github.io/author/david-j.-singer/index.xml" rel="self" type="application/rss+xml" />
+    <description>David J. Singer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdcollette.github.io/media/icon_hu407302128cde5d1922345193e68a1151_15451_512x512_fill_lanczos_center_3.png</url>
+      <title>David J. Singer</title>
+      <link>https://mdcollette.github.io/author/david-j.-singer/</link>
+    </image>
+    
+    <item>
+      <title>Balancing designer influence with rework for design paths of a simple polynomial model</title>
+      <link>https://mdcollette.github.io/publication/van-houten-balancing-designer-influence-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/van-houten-balancing-designer-influence-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design for flexibility: Evaluating the option to extend service life in preliminary structural design</title>
+      <link>https://mdcollette.github.io/publication/knight-design-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/knight-design-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing of a spreading mechanism to promote diversity in multi-objective particle swarm optimization</title>
+      <link>https://mdcollette.github.io/publication/knight-testing-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/knight-testing-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiobjective Particle Swarm Optimization of a Planing Craft with Uncertainty</title>
+      <link>https://mdcollette.github.io/publication/knight-multiobjective-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/knight-multiobjective-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A method for comparing panel complexity to traditional material and production cost estimating techniques</title>
+      <link>https://mdcollette.github.io/publication/rigterink-method-2013/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/rigterink-method-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Real options | Marine Structures Design Lab</title>
+    <link>https://mdcollette.github.io/tag/real-options/</link>
+      <atom:link href="https://mdcollette.github.io/tag/real-options/index.xml" rel="self" type="application/rss+xml" />
+    <description>Real options</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdcollette.github.io/media/icon_hu407302128cde5d1922345193e68a1151_15451_512x512_fill_lanczos_center_3.png</url>
+      <title>Real options</title>
+      <link>https://mdcollette.github.io/tag/real-options/</link>
+    </image>
+    
+    <item>
+      <title>Design for flexibility: Evaluating the option to extend service life in preliminary structural design</title>
+      <link>https://mdcollette.github.io/publication/knight-design-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/knight-design-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

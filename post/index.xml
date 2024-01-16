@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Marine Structures Design Lab</title>
+    <link>https://mdcollette.github.io/post/</link>
+      <atom:link href="https://mdcollette.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdcollette.github.io/media/icon_hu407302128cde5d1922345193e68a1151_15451_512x512_fill_lanczos_center_3.png</url>
+      <title>Latest News</title>
+      <link>https://mdcollette.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>SENATOR Working Report &#34;Needs Exploration for Long-Term Autonomous Marine Systems&#34; surpasses 250 downloads</title>
+      <link>https://mdcollette.github.io/post/23-07-31-senator/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/post/23-07-31-senator/</guid>
+      <description>&lt;p&gt;The working report on long-term autonomy needs published last summer has surpassed 250 downloads. Combining crew interview, state-of-the-art surveys, and STPA-inspired analysis, the report traces research needsfor long-term autonomous vessels.  You can get the report &lt;a href=&#34;https://deepblue.lib.umich.edu/handle/2027.42/173163&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online here&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;executive-summary&#34;&gt;Executive Summary&lt;/h3&gt;
+&lt;p&gt;Making a marine platform autonomous for long-duration missions of weeks to months at sea has been shown to be a fundamentally different challenge than those faced by crewless air and ground vehicles. Self-health assessment, mission planning and logistics consideration are all heightened for the marine vessel that may be out for weeks to months at a time. How- ever, how such assessments and mission planning is done on crewed vessels today is not well understood, which makes researching algorithms for this area difficult.&lt;/p&gt;
+&lt;p&gt;This work reports on a broad framework of risk concerns for such long-term missions, and then reviews current marine systems in service. Existing platforms show a clear tradeoff between platform complexity and achievable endurance. Gliders and simple platforms have completed weeks-to-month voyages but with high loss rates. More complex vessels are still in the days-to-low-weeks range of mission lengths, and no vessel currently performs long-term planning autonomously. A new three-component rating system was proposed to track plat- forms, using the platform’s decision-making, endurance, and platform complexity as metrics. Existing platforms were visualized with this system, confirming the capability gap.&lt;/p&gt;
+&lt;p&gt;A series of interviews with ship and shore crews was used to attempt to determine how such planning is done today. This process revealed that machinery systems comprise the central concern around platform health. The maintenance of machinery is highly structured within the vessel’s preventative maintenance system (PMS). However, both integrating the overall health of the platform, and weighing risks for planning were done in a human-center manner. Such planning was not standardized or recorded in a formal procedure, but used extensive human experience and implicit criteria. Shore-side support was also widely used in diag- nosing problem, planning repairs, and supporting on-board decisions. Thus, the interviews produced a list of concerns but not a definite planning approach that could be automated.&lt;/p&gt;
+&lt;p&gt;A high-level simulation-based approach was used to see how accurate planning around plat- form health had to be to improve operational performance. A fleet of 10 vessels was used to maintain a patrol line at different distances from a support base, with each vessel having a single health parameter that degraded stochastically. Four different planning approaches were compared, and the result showed that even imperfect long-term planning systems may produce large gains in platform effectiveness vs. static rule-based approaches.&lt;/p&gt;
+&lt;p&gt;Finally, a modified STPA approach was used to try to explore significant risk areas for long-term planning systems. Two STPA formulations were compared, and the approach more narrowly focused on mission planning was able to identify broad areas where existing algorithms may be insufficient. A table of resulting challenge areas was constructed, and three development case studies were proposed to address the gaps in the table. These cases were designed to be tractable for basic research exploration yet involving enough disciplines to be broadly representative of the at-sea mission planning problem. The three case studies included a fuel management study, a machinery design and support case, and an adaptable risk level case. Suggestions for implementing these case studies, and further work, finalize the report.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Andreya Ware Wins SMART Scholarship Award</title>
+      <link>https://mdcollette.github.io/post/23-05-01-waresmart/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/post/23-05-01-waresmart/</guid>
+      <description>&lt;p&gt;Congratulations to Andreya Ware for winning a &lt;a href=&#34;https://www.smartscholarship.org/smart&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2023 SMART Scholarship&lt;/a&gt; for her Ph.D. studies.&lt;/p&gt;
+&lt;p&gt;Ph.D. student Andreya Ware is one of the 2023 winners of the SMART Scholarship.  This funding will support her studies into reliability of autonomous platforms, and gives her a post-defense job at [Naval Surface Warfare Center Philadelphia] (&lt;a href=&#34;https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Philadelphia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Philadelphia/&lt;/a&gt;)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MSDL Will Organize PRADS 2025!</title>
+      <link>https://mdcollette.github.io/post/22-10-01-prads/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/post/22-10-01-prads/</guid>
+      <description>&lt;p&gt;At the 15th International Symposium on Practical Design of Ships and Other Floating Structures (PRADS 2022) the MSDL was selected by the standing committee to host the 16th edition of the conference in Ann Arbor in 2025. We look forward to welcoming everyone to Ann Arbor.&lt;/p&gt;
+&lt;p&gt;PRADS (International Symposium on Practical Design of Ships and Other Floating Structures) is a traditional series of triennial symposia, aiming at an international exchange of new knowledge and achievements with regard to the design, research and development of ships and other floating structures.&lt;/p&gt;
+&lt;p&gt;Previous PRADS symposia:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1st 1977 Tokyo&lt;/li&gt;
+&lt;li&gt;2nd 1983 Tokyo and Seoul&lt;/li&gt;
+&lt;li&gt;3rd 1987 Trondheim&lt;/li&gt;
+&lt;li&gt;5th 1992 Newcastle upon Tyne&lt;/li&gt;
+&lt;li&gt;6th 1995 Seoul&lt;/li&gt;
+&lt;li&gt;7th 1998 Hague&lt;/li&gt;
+&lt;li&gt;8th 2001 Shanghai&lt;/li&gt;
+&lt;li&gt;9th 2004 Lübeck&lt;/li&gt;
+&lt;li&gt;10th 2007 Houston&lt;/li&gt;
+&lt;li&gt;11th 2010 Rio de Janeiro&lt;/li&gt;
+&lt;li&gt;12th 2013 Changwon&lt;/li&gt;
+&lt;li&gt;13th 2016 Copenhagen&lt;/li&gt;
+&lt;li&gt;14th 2019 Yokohama&lt;/li&gt;
+&lt;li&gt;15th 2022 Dubrovnik&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Information on the 15th symposium is &lt;a href=&#34;https://prads2022.fsb.hr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

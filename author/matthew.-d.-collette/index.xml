@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew. D. Collette | Marine Structures Design Lab</title>
+    <link>https://mdcollette.github.io/author/matthew.-d.-collette/</link>
+      <atom:link href="https://mdcollette.github.io/author/matthew.-d.-collette/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew. D. Collette</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdcollette.github.io/media/icon_hu407302128cde5d1922345193e68a1151_15451_512x512_fill_lanczos_center_3.png</url>
+      <title>Matthew. D. Collette</title>
+      <link>https://mdcollette.github.io/author/matthew.-d.-collette/</link>
+    </image>
+    
+    <item>
+      <title>Needs Exploration for Long-Term Autonomous Marine Systems: Working Report</title>
+      <link>https://mdcollette.github.io/publication/collette-needs-exploration-longterm-2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/collette-needs-exploration-longterm-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

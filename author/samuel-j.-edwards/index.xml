@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel J. Edwards | Marine Structures Design Lab</title>
+    <link>https://mdcollette.github.io/author/samuel-j.-edwards/</link>
+      <atom:link href="https://mdcollette.github.io/author/samuel-j.-edwards/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samuel J. Edwards</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdcollette.github.io/media/icon_hu407302128cde5d1922345193e68a1151_15451_512x512_fill_lanczos_center_3.png</url>
+      <title>Samuel J. Edwards</title>
+      <link>https://mdcollette.github.io/author/samuel-j.-edwards/</link>
+    </image>
+    
+    <item>
+      <title>Estimating extreme characteristics of stochastic non-linear systems</title>
+      <link>https://mdcollette.github.io/publication/edwards-estimating-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/edwards-estimating-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of Human Injury Due to Impact</title>
+      <link>https://mdcollette.github.io/publication/edwards-prediction-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/edwards-prediction-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wind and Wave Environments that Lead to Extreme Loads on Offshore Structures</title>
+      <link>https://mdcollette.github.io/publication/edwards-wind-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/edwards-wind-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

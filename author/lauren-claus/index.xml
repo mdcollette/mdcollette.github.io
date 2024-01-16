@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lauren Claus | Marine Structures Design Lab</title>
+    <link>https://mdcollette.github.io/author/lauren-claus/</link>
+      <atom:link href="https://mdcollette.github.io/author/lauren-claus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lauren Claus</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdcollette.github.io/media/icon_hu407302128cde5d1922345193e68a1151_15451_512x512_fill_lanczos_center_3.png</url>
+      <title>Lauren Claus</title>
+      <link>https://mdcollette.github.io/author/lauren-claus/</link>
+    </image>
+    
+    <item>
+      <title>Design Space Covering for Uncertainty</title>
+      <link>https://mdcollette.github.io/publication/claus-design-space-covering-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/claus-design-space-covering-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An optimization framework for design space reduction in early-stage design under uncertainty</title>
+      <link>https://mdcollette.github.io/publication/claus-optimization-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/claus-optimization-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Future Navy Surface Acquisition Programs via Enhanced Structural Design Approaches</title>
+      <link>https://mdcollette.github.io/publication/claus-supporting-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/claus-supporting-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

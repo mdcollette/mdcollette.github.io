@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathaniel Meredith | Marine Structures Design Lab</title>
+    <link>https://mdcollette.github.io/author/nathaniel-meredith/</link>
+      <atom:link href="https://mdcollette.github.io/author/nathaniel-meredith/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nathaniel Meredith</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mdcollette.github.io/author/nathaniel-meredith/avatar_hue188cd7c67126fda95a1564822e4e548_7601_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Nathaniel Meredith</title>
+      <link>https://mdcollette.github.io/author/nathaniel-meredith/</link>
+    </image>
+    
+  </channel>
+</rss>

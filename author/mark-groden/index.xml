@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Groden | Marine Structures Design Lab</title>
+    <link>https://mdcollette.github.io/author/mark-groden/</link>
+      <atom:link href="https://mdcollette.github.io/author/mark-groden/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark Groden</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mdcollette.github.io/author/mark-groden/avatar_hua3544719ca6ce0a8d0f41f1fd3ff8f84_5260_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Mark Groden</title>
+      <link>https://mdcollette.github.io/author/mark-groden/</link>
+    </image>
+    
+  </channel>
+</rss>

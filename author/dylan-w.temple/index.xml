@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dylan W.Temple | Marine Structures Design Lab</title>
+    <link>https://mdcollette.github.io/author/dylan-w.temple/</link>
+      <atom:link href="https://mdcollette.github.io/author/dylan-w.temple/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dylan W.Temple</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mdcollette.github.io/author/dylan-w.temple/avatar_hu57ae7e8a5e028860d1d2925abe65c821_4970_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dylan W.Temple</title>
+      <link>https://mdcollette.github.io/author/dylan-w.temple/</link>
+    </image>
+    
+  </channel>
+</rss>

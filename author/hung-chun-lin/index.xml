@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hung-Chun Lin | Marine Structures Design Lab</title>
+    <link>https://mdcollette.github.io/author/hung-chun-lin/</link>
+      <atom:link href="https://mdcollette.github.io/author/hung-chun-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hung-Chun Lin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mdcollette.github.io/author/hung-chun-lin/avatar_hu067bbf8fe59baf5c689e28a54d4f0f39_3611004_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Hung-Chun Lin</title>
+      <link>https://mdcollette.github.io/author/hung-chun-lin/</link>
+    </image>
+    
+  </channel>
+</rss>

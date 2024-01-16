@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew D. Collette | Marine Structures Design Lab</title>
+    <link>https://mdcollette.github.io/author/matthew-d.-collette/</link>
+      <atom:link href="https://mdcollette.github.io/author/matthew-d.-collette/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew D. Collette</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdcollette.github.io/media/icon_hu407302128cde5d1922345193e68a1151_15451_512x512_fill_lanczos_center_3.png</url>
+      <title>Matthew D. Collette</title>
+      <link>https://mdcollette.github.io/author/matthew-d.-collette/</link>
+    </image>
+    
+    <item>
+      <title>Design Space Covering for Uncertainty</title>
+      <link>https://mdcollette.github.io/publication/claus-design-space-covering-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/claus-design-space-covering-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting growth and interaction of multiple cracks in structural systems using Dynamic Bayesian Networks</title>
+      <link>https://mdcollette.github.io/publication/zhang-predicting-growth-interaction-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/zhang-predicting-growth-interaction-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancing designer influence with rework for design paths of a simple polynomial model</title>
+      <link>https://mdcollette.github.io/publication/van-houten-balancing-designer-influence-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/van-houten-balancing-designer-influence-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-Term Voyage Decision Making for Crewless Platforms</title>
+      <link>https://mdcollette.github.io/publication/sulkowski-longterm-voyage-decision-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/sulkowski-longterm-voyage-decision-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration of solution path dependencies with a polynomial model</title>
+      <link>https://mdcollette.github.io/publication/van-houten-exploration-nodate/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/van-houten-exploration-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the Role of Weapon Effects and Flooding on the Loss of H. L. Hunley</title>
+      <link>https://mdcollette.github.io/publication/collette-investigating-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/collette-investigating-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Generic Framework for Data Model Fusion</title>
+      <link>https://mdcollette.github.io/publication/provancher-generic-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/provancher-generic-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven models for vessel motion prediction and the benefits of physics-based information</title>
+      <link>https://mdcollette.github.io/publication/schirmann-data-driven-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/schirmann-data-driven-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating extreme characteristics of stochastic non-linear systems</title>
+      <link>https://mdcollette.github.io/publication/edwards-estimating-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/edwards-estimating-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental investigation of structural system capacity with multiple fatigue cracks</title>
+      <link>https://mdcollette.github.io/publication/zhang-experimental-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/zhang-experimental-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication of Design Space Relationships Learned by Bayesian Networks</title>
+      <link>https://mdcollette.github.io/publication/wincott-communication-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/wincott-communication-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking Seakeeping Performance Predictions with Onboard Measurements for Surface Platform Digital Twins</title>
+      <link>https://mdcollette.github.io/publication/schirmann-linking-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/schirmann-linking-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of Human Injury Due to Impact</title>
+      <link>https://mdcollette.github.io/publication/edwards-prediction-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/edwards-prediction-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Significance of wave data source selection for vessel response prediction and fatigue damage estimation</title>
+      <link>https://mdcollette.github.io/publication/schirmann-significance-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/schirmann-significance-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codesign case study of a planing craft with active control systems</title>
+      <link>https://mdcollette.github.io/publication/castro-feliciano-codesign-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/castro-feliciano-codesign-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined stochastic lateral and in-plane loading of a stiffened ship panel leading to collapse</title>
+      <link>https://mdcollette.github.io/publication/seyffert-combined-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/seyffert-combined-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wind and Wave Environments that Lead to Extreme Loads on Offshore Structures</title>
+      <link>https://mdcollette.github.io/publication/edwards-wind-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/edwards-wind-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crack length measurement in the surface of vessel structures based on computer vision</title>
+      <link>https://mdcollette.github.io/publication/zhang-crack-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/zhang-crack-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response and fatigue assessment of high speed aluminium hulls using short-term wireless hull monitoring</title>
+      <link>https://mdcollette.github.io/publication/johnson-response-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/johnson-response-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An optimization framework for design space reduction in early-stage design under uncertainty</title>
+      <link>https://mdcollette.github.io/publication/claus-optimization-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/claus-optimization-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of panel distortion in a shipyard using a Bayesian network</title>
+      <link>https://mdcollette.github.io/publication/wincott-prediction-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/wincott-prediction-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The strain amplification sensor: A 3D-printable stand-alone strain gauge for low-cost monitoring</title>
+      <link>https://mdcollette.github.io/publication/groden-strain-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/groden-strain-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding lifecycle cost trade-offs for naval vessels: minimising production, maintenance, and resistance</title>
+      <link>https://mdcollette.github.io/publication/temple-understanding-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/temple-understanding-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fusing fleet in-service measurements using Bayesian networks</title>
+      <link>https://mdcollette.github.io/publication/groden-fusing-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/groden-fusing-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian approach for shipboard lifetime wave load spectrum updating</title>
+      <link>https://mdcollette.github.io/publication/zhu-bayesian-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/zhu-bayesian-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient optimization of reliability-constrained structural design problems including interval uncertainty</title>
+      <link>https://mdcollette.github.io/publication/liu-efficient-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/liu-efficient-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A dynamic discretization method for reliability inference in Dynamic Bayesian Networks</title>
+      <link>https://mdcollette.github.io/publication/zhu-dynamic-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/zhu-dynamic-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design for flexibility: Evaluating the option to extend service life in preliminary structural design</title>
+      <link>https://mdcollette.github.io/publication/knight-design-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/knight-design-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Updating structural engineering models with in-service data: approaches and implications for the naval community</title>
+      <link>https://mdcollette.github.io/publication/zhu-updating-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/zhu-updating-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing lifetime structural costs: Optimizing for production and maintenance under service life uncertainty</title>
+      <link>https://mdcollette.github.io/publication/temple-minimizing-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/temple-minimizing-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic nonlinear fatigue crack growth predictions for simple specimens subject to representative ship structural loading sequences</title>
+      <link>https://mdcollette.github.io/publication/hodapp-stochastic-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/hodapp-stochastic-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving surrogate-assisted variable fidelity multi-objective optimization using a clustering algorithm</title>
+      <link>https://mdcollette.github.io/publication/liu-improving-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/liu-improving-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-objective variable-fidelity optimization method for genetic algorithms</title>
+      <link>https://mdcollette.github.io/publication/zhu-multi-objective-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/zhu-multi-objective-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing of a spreading mechanism to promote diversity in multi-objective particle swarm optimization</title>
+      <link>https://mdcollette.github.io/publication/knight-testing-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/knight-testing-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiobjective Particle Swarm Optimization of a Planing Craft with Uncertainty</title>
+      <link>https://mdcollette.github.io/publication/knight-multiobjective-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/knight-multiobjective-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous optimization of propeller–hull systems to minimize lifetime fuel consumption</title>
+      <link>https://mdcollette.github.io/publication/nelson-simultaneous-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/nelson-simultaneous-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A method for comparing panel complexity to traditional material and production cost estimating techniques</title>
+      <link>https://mdcollette.github.io/publication/rigterink-method-2013/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/rigterink-method-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear fatigue crack growth predictions for simple specimens subject to time-dependent ship structural loading sequences</title>
+      <link>https://mdcollette.github.io/publication/hodapp-nonlinear-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/hodapp-nonlinear-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hull structures as a system: supporting lifecycle analysis</title>
+      <link>https://mdcollette.github.io/publication/collette-hull-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/collette-hull-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An approach for reliability-based fatigue design of welded joints on aluminum high-speed vessels</title>
+      <link>https://mdcollette.github.io/publication/collette-approach-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/collette-approach-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultimate compressive strength design methods of aluminum welded stiffened panel structures for aerospace, marine and land-based applications: A benchmark study</title>
+      <link>https://mdcollette.github.io/publication/paik-ultimate-2005/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/paik-ultimate-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

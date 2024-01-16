@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motion forecasting | Marine Structures Design Lab</title>
+    <link>https://mdcollette.github.io/tag/motion-forecasting/</link>
+      <atom:link href="https://mdcollette.github.io/tag/motion-forecasting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Motion forecasting</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdcollette.github.io/media/icon_hu407302128cde5d1922345193e68a1151_15451_512x512_fill_lanczos_center_3.png</url>
+      <title>Motion forecasting</title>
+      <link>https://mdcollette.github.io/tag/motion-forecasting/</link>
+    </image>
+    
+    <item>
+      <title>Data-driven models for vessel motion prediction and the benefits of physics-based information</title>
+      <link>https://mdcollette.github.io/publication/schirmann-data-driven-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/schirmann-data-driven-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>strain gauge | Marine Structures Design Lab</title>
+    <link>https://mdcollette.github.io/tag/strain-gauge/</link>
+      <atom:link href="https://mdcollette.github.io/tag/strain-gauge/index.xml" rel="self" type="application/rss+xml" />
+    <description>strain gauge</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdcollette.github.io/media/icon_hu407302128cde5d1922345193e68a1151_15451_512x512_fill_lanczos_center_3.png</url>
+      <title>strain gauge</title>
+      <link>https://mdcollette.github.io/tag/strain-gauge/</link>
+    </image>
+    
+    <item>
+      <title>The strain amplification sensor: A 3D-printable stand-alone strain gauge for low-cost monitoring</title>
+      <link>https://mdcollette.github.io/publication/groden-strain-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mdcollette.github.io/publication/groden-strain-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
